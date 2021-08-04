@@ -10,15 +10,15 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "1935127205:AAGVkPqttRKxObYmhq1A4Dk6QxUZqFGaBB4"
+      "description": "get it from @botfather"
       
     },
     "APP_ID": {
-      "description": "5221390"
+      "description": "get it from https://my.telegram.org/apps"
       
     },
     "API_HASH": {
-      "description": "81905a948f1801130e284086ac88f365"
+      "description": "get it from https://my.telegram.org/apps"
        
     },
     "SUDO_USERS": {
